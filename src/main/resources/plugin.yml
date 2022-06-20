@@ -1,0 +1,7 @@
+name: Sittr
+version: '${version}'
+main: de.himmelswanderer.sittr.Sittr
+api-version: 1.19
+prefix: Sittr
+authors: [ Himmelswanderer ]
+description: A Chairs plugin with customizable Blocks
