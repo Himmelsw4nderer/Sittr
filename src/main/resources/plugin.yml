@@ -5,3 +5,13 @@ api-version: 1.19
 prefix: Sittr
 authors: [ Himmelswanderer ]
 description: A Chairs plugin with customizable Blocks
+website: https://github.com/Himmelsw4nderer/Sittr
+permissions:
+    sittr.*:
+        description: Allow all Sittr commands and actions
+        default: op
+        children:
+            sittr.sit: true
+    sittr.sit:
+        description: Allow the user to sit on a chair
+        default: true

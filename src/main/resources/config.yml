@@ -1,0 +1,34 @@
+#Offset the chair in blocks downwards default: 0.1
+blockOffset: 0.1
+#Add blocks to create chairs with the height of the chair as value. the height is the distance between the top of the block and the actual seat height.
+#Stairs and slaps: 0.5
+blocks:
+  OAK_STAIRS: 0.5
+  SPRUCE_STAIRS: 0.5
+  BIRCH_STAIRS: 0.5
+  JUNGLE_STAIRS: 0.5
+  ACACIA_STAIRS: 0.5
+  DARK_OAK_STAIRS: 0.5
+  MANGROVE_STAIRS: 0.5
+  CRIMSON_STAIRS: 0.5
+  WARPED_STAIRS: 0.5
+
+  OAK_SLAB: 0.5
+  SPRUCE_SLAB: 0.5
+  BIRCH_SLAB: 0.5
+  JUNGLE_SLAB: 0.5
+  ACACIA_SLAB: 0.5
+  DARK_OAK_SLAB: 0.5
+  MANGROVE_SLAB: 0.5
+  CRIMSON_SLAB: 0.5
+  WARPED_SLAB: 0.5
+
+  OAK_PRESSURE_PLATE: 0.95
+  SPRUCE_PRESSURE_PLATE: 0.95
+  BIRCH_PRESSURE_PLATE: 0.95
+  JUNGLE_PRESSURE_PLATE: 0.95
+  ACACIA_PRESSURE_PLATE: 0.95
+  DARK_OAK_PRESSURE_PLATE: 0.95
+  MANGROVE_PRESSURE_PLATE: 0.95
+  CRIMSON_PRESSURE_PLATE: 0.95
+  WARPED_PRESSURE_PLATE: 0.95
